@@ -1,5 +1,4 @@
 import argparse
-from os import curdir
 
 # get input file
 parser = argparse.ArgumentParser(description='Day 1 of advent of code.')
